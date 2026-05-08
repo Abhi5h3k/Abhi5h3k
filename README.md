@@ -65,6 +65,7 @@
 ---
 
 ### ✍️ Recent Writings
+- [✨ AI Fundametals](https://abhi5h3k.github.io/AI/)
 - [⚡ iPerf3 on Android with CMake & JNI (Medium)](https://medium.com/@abhishekbhardwajca/compiling-iperf3-in-android-with-cmake-jni-a-practical-guide-70721e198dc9)  
 - [🤖 Future of AI Communication: Model Context Protocol (Hashnode)](https://anthropic-mcp.hashnode.dev/model-context-protocol-mcp-a-beginners-guide-to-the-future-of-ai-communication)
 
