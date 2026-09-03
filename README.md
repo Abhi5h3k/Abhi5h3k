@@ -58,8 +58,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=abhi5h3k&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi5h3k&show_icons=true&theme=radical&hide_border=true"/>
+  <!-- <img src="https://github-stats-extended.vercel.app/api?username=Abhi5h3k&rank_icon=github&include_all_commits=true&theme=ambient_gradient"/> -->
+  <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=abhi5h3k&theme=radical&hide_border=true"/> -->
+  <img src="https://github-stats-extended.vercel.app/api?username=Abhi5h3k&rank_icon=github&include_all_commits=true&theme=synthwave"/>
 </p>
 
 ---
